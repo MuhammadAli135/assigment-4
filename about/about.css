@@ -1,0 +1,15 @@
+.aboutUs{
+    font-weight: bold;
+    color: gray;
+    text-align: center;
+}
+.aboutPara{
+    color: black;
+    text-align: justify;
+    word-spacing: 15px;
+    letter-spacing: 2px;
+    width: 80%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}

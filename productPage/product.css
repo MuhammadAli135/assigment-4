@@ -1,0 +1,36 @@
+ .navbar{
+     background-color: rgb(197, 196, 196);
+ } 
+  .productname{
+    text-align: center;
+  }
+  
+.carousel{
+  width: 100%;
+}
+
+  
+.carousel-img-size{
+    width: 100% !important ;
+    height: 100% !important;
+    margin-top: auto !important;
+} 
+@media only screen and (min-width : 800px){
+  .carousel-img-size{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90% !important ;
+    height: 500px !important;
+} 
+
+}
+.oldPrice{
+    color: gray;
+    text-align: center;
+}
+.newPrice{
+  text-align: center;
+    color: rgb(151, 39, 39);
+}
+
+
